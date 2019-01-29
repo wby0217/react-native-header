@@ -1,0 +1,41 @@
+{
+  "_from": "git+https://gitlab+deploy-token-5:WzQULRzBbsnnxpZBKepc@gitlab.baifu-tech.net/frontend/react-native-header.git#develop",
+  "_id": "react-native-header@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-htJfFgnURNDPgfodFoa5s2crdpE=",
+  "_location": "/react-native-header",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-header@git+https://gitlab+deploy-token-5:WzQULRzBbsnnxpZBKepc@gitlab.baifu-tech.net/frontend/react-native-header.git#develop",
+    "name": "react-native-header",
+    "escapedName": "react-native-header",
+    "rawSpec": "git+https://gitlab+deploy-token-5:WzQULRzBbsnnxpZBKepc@gitlab.baifu-tech.net/frontend/react-native-header.git#develop",
+    "saveSpec": "git+https://gitlab+deploy-token-5:WzQULRzBbsnnxpZBKepc@gitlab.baifu-tech.net/frontend/react-native-header.git#develop",
+    "fetchSpec": "https://gitlab%2Bdeploy-token-5:WzQULRzBbsnnxpZBKepc@gitlab.baifu-tech.net/frontend/react-native-header.git",
+    "gitCommittish": "develop"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://gitlab+deploy-token-5:WzQULRzBbsnnxpZBKepc@gitlab.baifu-tech.net/frontend/react-native-header.git#016ee94b815b36221c22bbe2f98fbad562b04651",
+  "_spec": "react-native-header@git+https://gitlab+deploy-token-5:WzQULRzBbsnnxpZBKepc@gitlab.baifu-tech.net/frontend/react-native-header.git#develop",
+  "_where": "/Users/bryan/MyWork/prometheus",
+  "author": {
+    "name": "kosun"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "deprecated": false,
+  "description": ">",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-header",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.kosun.net:frontend/react-native-header.git"
+  },
+  "version": "1.0.1"
+}
